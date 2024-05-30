@@ -13,7 +13,10 @@ This db is made for educational and research purpose.
 | 한국어   | 中文  | 日本語  | English | Folder |
 |----------|---------|---------|----------|----------|
 | 베티     | 贝蒂     | ベティ   | Betty |[folder](./betty) |
-| 드 레이시 | 德菈赛 | ドレーシー | De lacey | [folder](./delacey)
+| 드 레이시 | 德菈赛 | ドレーシー | De lacey | [folder](./delacey) |
+| 나나카 | 七花 | 七花 | Nanaka | [folder](./nanaka) |
+| 강우 | 绛雨 | - | Jiangyu | [folder](./jiangyu) |
+| 브이 | 薇 | - | Vee | [folder](./vee) |
 
 ---
 
